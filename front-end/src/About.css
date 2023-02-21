@@ -1,0 +1,8 @@
+.aboutphoto {
+    display: inline-block;
+  }
+
+.aboutphoto img {
+    width: 50px;
+    vertical-align: middle;
+  }
